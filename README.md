@@ -10,26 +10,22 @@ Vid2Img is a Python script that converts a video file into a series of still ima
 
 2. Modify the script to specify the path to your video file:
 
-    video_file = "D:/AI/Projects/Vid2Frames/input.mp4"
+    video_file = "PATH/TO/YOUR/VIDEO.mp4"
 
-    
 3. Run the script:
 
     python Vid2Img.py
 
 
-
 This will create a folder called "images" containing one image for every second of the video. The images will be named "image_X.jpg", where X is the frame number.
 
 ## Fun fact
-
 This script was co-written by Kris Mathers and Chat GPT, an advanced artificial intelligence.
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2023 Kris Mathers and Chat GPT
+Copyright (c) 2023 Kris Mathers & ChatGPT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
